@@ -12,6 +12,7 @@ blog :
 * http://www.jiaotuhao.com/
 * http://www.springnodejs.com/
 * http://example.springnodejs.com/
+* http://rawcache.springnodejs.com/
 
 git : https://github.com/solq360/springnodejs
 	https://github.com/solq360/springnodejsExample.git
